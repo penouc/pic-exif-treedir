@@ -4,6 +4,6 @@ transform flat file folder to a tree structure folder, which folder's named by y
 
 
 ```bash
-pic-exif-treedir xxxx(dirnam)
+pic-exif-treedir xxxx(dirname)
 ```
 
